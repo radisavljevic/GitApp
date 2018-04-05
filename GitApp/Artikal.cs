@@ -12,9 +12,5 @@ namespace GitApp
         int sifra { get; set; }
         int cena { get; set; }
 
-
-
-
-
     }
 }
