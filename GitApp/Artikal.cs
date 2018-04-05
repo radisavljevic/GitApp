@@ -10,7 +10,7 @@ namespace GitApp
     {
         string naziv { get; set; }
         int sifra { get; set; }
-
+        int cena;
 
     }
 }
