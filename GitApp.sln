@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitApp", "GitApp\GitApp.csproj", "{30523C36-05DE-4232-8693-685EB9C2F08D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrugiProjekat", "DrugiProjekat\DrugiProjekat.csproj", "{347BEAA7-00BF-4EAE-A5CF-F2730446ABAD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{30523C36-05DE-4232-8693-685EB9C2F08D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{30523C36-05DE-4232-8693-685EB9C2F08D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{30523C36-05DE-4232-8693-685EB9C2F08D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{347BEAA7-00BF-4EAE-A5CF-F2730446ABAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{347BEAA7-00BF-4EAE-A5CF-F2730446ABAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{347BEAA7-00BF-4EAE-A5CF-F2730446ABAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{347BEAA7-00BF-4EAE-A5CF-F2730446ABAD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
